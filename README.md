@@ -1,0 +1,1 @@
+This project implements a two-tier architecture on AWS, designed for high availability and scalability. The architecture is deployed on EC2 instances across multiple regions, leveraging AWS Management Console and Terraform for infrastructure setup.
